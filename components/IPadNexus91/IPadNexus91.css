@@ -1,0 +1,72 @@
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 109px;
+  margin-top: 150px;
+  min-height: 289px;
+  width: 183px;
+}
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 106px;
+  margin-top: 49px;
+  min-height: 679px;
+  width: 105px;
+}
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 49px;
+  min-height: 679px;
+  width: 109px;
+}
+.ipad-nexus-9-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1024px;
+  padding: 0 76px;
+  width: 768px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+.x768-rectangle1 {
+  background-color: var(--blue);
+  height: 101px;
+  width: 105px;
+}
+.x768-rectangle2 {
+  background-color: var(--red);
+  height: 101px;
+  width: 105px;
+}
+.x768-rectangle3 {
+  background-color: var(--green);
+  height: 101px;
+  margin-left: 4px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x768-rectangle4 {
+  background-color: var(--lemon-glacier);
+  height: 101px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x768-rectangle5 {
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-right: 2.0px;
+  margin-top: 37px;
+  width: 105px;
+}

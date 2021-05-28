@@ -1,0 +1,24 @@
+.iphone-6-7-8-se-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  padding: 122px 91px;
+  width: 375px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+.x375-purple-retangle {
+  align-self: center;
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-top: 34px;
+  width: 105px;
+}

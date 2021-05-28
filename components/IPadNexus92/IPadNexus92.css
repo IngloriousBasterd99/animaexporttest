@@ -1,0 +1,24 @@
+.ipad-nexus-9-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 135px 269px;
+  width: 768px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  white-space: nowrap;
+}
+.x768-purple-retangle {
+  align-self: center;
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-left: 1.0px;
+  margin-top: 52px;
+  width: 105px;
+}

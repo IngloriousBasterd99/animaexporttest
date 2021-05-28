@@ -1,0 +1,333 @@
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 276px;
+  margin-top: 137px;
+  min-height: 289px;
+  width: 244px;
+}
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 36px;
+  min-height: 679px;
+  width: 105px;
+}
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 274px;
+  margin-top: 36px;
+  min-height: 679px;
+  width: 105px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  min-width: 244px;
+  white-space: nowrap;
+}
+.web-1280-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  padding: 0 138px;
+  width: 1280px;
+}
+.x1280-rectangle1 {
+  background-color: var(--blue);
+  height: 101px;
+  width: 105px;
+}
+.x1280-rectangle2 {
+  background-color: var(--red);
+  height: 101px;
+  width: 105px;
+}
+.x1280-rectangle3 {
+  background-color: var(--green);
+  height: 101px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x1280-rectangle4 {
+  background-color: var(--lemon-glacier);
+  height: 101px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x1280-rectangle5 {
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-right: 1.0px;
+  margin-top: 37px;
+  width: 105px;
+}
+
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  white-space: nowrap;
+}
+.web-1280-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  padding: 130px 515px;
+  width: 1280px;
+}
+.x1280-purple-retangle {
+  align-self: center;
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-left: 1.0px;
+  margin-top: 44px;
+  width: 105px;
+}
+
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 109px;
+  margin-top: 150px;
+  min-height: 289px;
+  width: 183px;
+}
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 106px;
+  margin-top: 49px;
+  min-height: 679px;
+  width: 105px;
+}
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 49px;
+  min-height: 679px;
+  width: 109px;
+}
+.ipad-nexus-9-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1024px;
+  padding: 0 76px;
+  width: 768px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+.x768-rectangle1 {
+  background-color: var(--blue);
+  height: 101px;
+  width: 105px;
+}
+.x768-rectangle2 {
+  background-color: var(--red);
+  height: 101px;
+  width: 105px;
+}
+.x768-rectangle3 {
+  background-color: var(--green);
+  height: 101px;
+  margin-left: 4px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x768-rectangle4 {
+  background-color: var(--lemon-glacier);
+  height: 101px;
+  margin-top: 477px;
+  width: 105px;
+}
+.x768-rectangle5 {
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-right: 2.0px;
+  margin-top: 37px;
+  width: 105px;
+}
+
+.ipad-nexus-9-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 135px 269px;
+  width: 768px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  white-space: nowrap;
+}
+.x768-purple-retangle {
+  align-self: center;
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-left: 1.0px;
+  margin-top: 52px;
+  width: 105px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 158px;
+  min-width: 301px;
+}
+.flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 301px;
+}
+.iphone-6-7-8-se-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  padding: 47px 0;
+  width: 375px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  margin-left: 2.0px;
+  min-height: 151px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+.x375-rectangle1 {
+  background-color: var(--blue);
+  height: 101px;
+  width: 105px;
+}
+.x375-rectangle2 {
+  background-color: var(--red);
+  height: 101px;
+  margin-left: 91px;
+  width: 105px;
+}
+.x375-rectangle3 {
+  background-color: var(--green);
+  height: 101px;
+  width: 105px;
+}
+.x375-rectangle4 {
+  background-color: var(--lemon-glacier);
+  height: 101px;
+  margin-left: 91px;
+  width: 105px;
+}
+.x375-rectangle5 {
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-top: 8px;
+  width: 105px;
+}
+
+.iphone-6-7-8-se-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  padding: 122px 91px;
+  width: 375px;
+}
+.number {
+  letter-spacing: 0;
+  line-height: 112px;
+  min-height: 151px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+.x375-purple-retangle {
+  align-self: center;
+  background-color: var(--electric-violet);
+  cursor: pointer;
+  height: 101px;
+  margin-top: 34px;
+  width: 105px;
+}
+
+:root {
+  --blue: #1100ff;
+  --dove-gray: #707070;
+  --electric-violet: #bd00ff;
+  --green: #00ff33;
+  --lemon-glacier: #f7ff00;
+  --red: #ff0000;
+  --white: #ffffff;
+
+  --font-size-m: 112px;
+
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}.segoeui-regular-normal-dove-gray-112px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@font-face {
+  font-family: "SegoeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.align-self-flex-center {
+  align-self: flex-center;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+
+/*# sourceMappingURL=/Test3.e31bb0bc.css.map */

@@ -1,0 +1,22 @@
+:root {
+  --blue: #1100ff;
+  --dove-gray: #707070;
+  --electric-violet: #bd00ff;
+  --green: #00ff33;
+  --lemon-glacier: #f7ff00;
+  --red: #ff0000;
+  --white: #ffffff;
+
+  --font-size-m: 112px;
+
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}.segoeui-regular-normal-dove-gray-112px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

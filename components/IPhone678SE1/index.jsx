@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./IPhone678SE1.css";
 
-function IPhone678SE1(props) {
+export const IPhone678SE1 = (props) => {
   const { children } = props;
 
   return (

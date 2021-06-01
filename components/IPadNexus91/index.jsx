@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./IPadNexus91.css";
 
-function IPadNexus91(props) {
+export const IPadNexus91 = (props) => {
   const { children } = props;
 
   return (

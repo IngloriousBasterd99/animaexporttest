@@ -30,8 +30,8 @@ const App = () => {
             </Media>
       <Switch>
         /* the goal is to route from page 1 to page 2, but the routing is borked */
-        <Route exact path="/web-1280-1" component={Web12801} />
-        <Route exact path="/web-1280-2" component={Web12802} />
+        <Route exact path="/" component={Web12801} />
+        <Route exact path="/web-1208-2" component={Web12802} />
         <Route exact path="/ipadnexus91" component={IPadNexus91} />
         <Route exact path="/ipadnexus91" component={IPadNexus92} />
         <Route exact path="/iphone678se1" component={IPhone678SE1} />

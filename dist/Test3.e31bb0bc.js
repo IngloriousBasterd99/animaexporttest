@@ -33750,7 +33750,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.Web12801 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33760,7 +33760,7 @@ require("./Web12801.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var Web12801 = function Web12801(props) {
+function Web12801(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -33787,9 +33787,8 @@ var Web12801 = function Web12801(props) {
   }), /*#__PURE__*/_react.default.createElement("div", {
     className: "x1280-rectangle4 border-1px-dove-gray"
   }))));
-};
+}
 
-exports.Web12801 = Web12801;
 var _default = Web12801;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./Web12801.css":"components/Web12801/Web12801.css"}],"components/Web12802/Web12802.css":[function(require,module,exports) {
@@ -33803,7 +33802,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.Web12802 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33813,7 +33812,7 @@ require("./Web12802.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var Web12802 = function Web12802(props) {
+function Web12802(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -33827,9 +33826,8 @@ var Web12802 = function Web12802(props) {
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "x1280-purple-retangle border-1px-dove-gray"
   }))));
-};
+}
 
-exports.Web12802 = Web12802;
 var _default = Web12802;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./Web12802.css":"components/Web12802/Web12802.css"}],"components/IPadNexus91/IPadNexus91.css":[function(require,module,exports) {
@@ -33843,7 +33841,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.IPadNexus91 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33853,7 +33851,7 @@ require("./IPadNexus91.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var IPadNexus91 = function IPadNexus91(props) {
+function IPadNexus91(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -33880,9 +33878,8 @@ var IPadNexus91 = function IPadNexus91(props) {
   }), /*#__PURE__*/_react.default.createElement("div", {
     className: "x768-rectangle4 border-1px-dove-gray"
   }))));
-};
+}
 
-exports.IPadNexus91 = IPadNexus91;
 var _default = IPadNexus91;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./IPadNexus91.css":"components/IPadNexus91/IPadNexus91.css"}],"components/IPadNexus92/IPadNexus92.css":[function(require,module,exports) {
@@ -33896,7 +33893,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.IPadNexus92 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33906,7 +33903,7 @@ require("./IPadNexus92.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var IPadNexus92 = function IPadNexus92(props) {
+function IPadNexus92(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -33920,9 +33917,8 @@ var IPadNexus92 = function IPadNexus92(props) {
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "x768-purple-retangle border-1px-dove-gray"
   }))));
-};
+}
 
-exports.IPadNexus92 = IPadNexus92;
 var _default = IPadNexus92;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./IPadNexus92.css":"components/IPadNexus92/IPadNexus92.css"}],"components/IPhone678SE1/IPhone678SE1.css":[function(require,module,exports) {
@@ -33936,7 +33932,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.IPhone678SE1 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33946,7 +33942,7 @@ require("./IPhone678SE1.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var IPhone678SE1 = function IPhone678SE1(props) {
+function IPhone678SE1(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -33971,9 +33967,8 @@ var IPhone678SE1 = function IPhone678SE1(props) {
   }), /*#__PURE__*/_react.default.createElement("div", {
     className: "x375-rectangle4 border-1px-dove-gray"
   }))));
-};
+}
 
-exports.IPhone678SE1 = IPhone678SE1;
 var _default = IPhone678SE1;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./IPhone678SE1.css":"components/IPhone678SE1/IPhone678SE1.css"}],"components/IPhone678SE2/IPhone678SE2.css":[function(require,module,exports) {
@@ -33987,7 +33982,7 @@ module.hot.accept(reloadCSS);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.IPhone678SE2 = void 0;
+exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
@@ -33997,7 +33992,7 @@ require("./IPhone678SE2.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var IPhone678SE2 = function IPhone678SE2(props) {
+function IPhone678SE2(props) {
   var children = props.children;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "container-center-horizontal"
@@ -34011,9 +34006,8 @@ var IPhone678SE2 = function IPhone678SE2(props) {
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "x375-purple-retangle border-1px-dove-gray"
   }))));
-};
+}
 
-exports.IPhone678SE2 = IPhone678SE2;
 var _default = IPhone678SE2;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./IPhone678SE2.css":"components/IPhone678SE2/IPhone678SE2.css"}],"node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js":[function(require,module,exports) {
@@ -34412,26 +34406,26 @@ var _react = _interopRequireDefault(require("react"));
 
 var _reactRouterDom = require("react-router-dom");
 
-var _Web = require("./components/Web12801");
+var _Web = _interopRequireDefault(require("./components/Web12801"));
 
-var _Web2 = require("./components/Web12802");
+var _Web2 = _interopRequireDefault(require("./components/Web12802"));
 
-var _IPadNexus = require("./components/IPadNexus91");
+var _IPadNexus = _interopRequireDefault(require("./components/IPadNexus91"));
 
-var _IPadNexus2 = require("./components/IPadNexus92");
+var _IPadNexus2 = _interopRequireDefault(require("./components/IPadNexus92"));
 
-var _IPhone678SE = require("./components/IPhone678SE1");
+var _IPhone678SE = _interopRequireDefault(require("./components/IPhone678SE1"));
 
-var _IPhone678SE2 = require("./components/IPhone678SE2");
+var _IPhone678SE2 = _interopRequireDefault(require("./components/IPhone678SE2"));
 
 var _reactMedia = _interopRequireDefault(require("react-media"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var App = function App() {
+function App() {
   /* the goal is to route from page 1 to page 2, but the routing is borked */
-  return /*#__PURE__*/_react.default.createElement(_reactRouterDom.BrowserRouter, {
-    basename: "/"
+  return /*#__PURE__*/_react.default.createElement(_reactRouterDom.BrowserRouter, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Switch, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
+    path: "/"
   }, /*#__PURE__*/_react.default.createElement(_reactMedia.default, {
     queries: {
       small: "(max-width: 599px)",
@@ -34439,33 +34433,15 @@ var App = function App() {
       large: "(min-width: 1200px)"
     }
   }, function (matches) {
-    return /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, matches.large && /*#__PURE__*/_react.default.createElement(_Web.Web12801, null, "1280"), matches.medium && /*#__PURE__*/_react.default.createElement(_IPadNexus.IPadNexus91, null, "768"), matches.small && /*#__PURE__*/_react.default.createElement(_IPhone678SE.IPhone678SE1, null, "375"));
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Switch, null, "/* the goal is to route from page 1 to page 2, but the routing is borked */", /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/web-1280-1",
-    component: _Web.Web12801
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/web-1280-2",
-    component: _Web2.Web12802
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/ipadnexus91",
-    component: _IPadNexus.IPadNexus91
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/ipadnexus91",
-    component: _IPadNexus2.IPadNexus92
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/iphone678se1",
-    component: _IPhone678SE.IPhone678SE1
-  }), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    exact: true,
-    path: "/iphone678se2",
-    component: _IPhone678SE2.IPhone678SE2
-  })));
-};
+    return /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, matches.large && /*#__PURE__*/_react.default.createElement(_Web.default, null, "1280"), matches.medium && /*#__PURE__*/_react.default.createElement(_IPadNexus.default, null, "768"), matches.small && /*#__PURE__*/_react.default.createElement(_IPhone678SE.default, null, "375"));
+  })), "/* the goal is to route from page 1 to page 2, but the routing is borked */", /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
+    path: "/web-1280-2"
+  }, /*#__PURE__*/_react.default.createElement(_Web2.default, null, "1280")), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
+    path: "/ipad-nexus-9-2"
+  }, /*#__PURE__*/_react.default.createElement(_IPadNexus2.default, null, "768")), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
+    path: "/iphone-6-7-8-se-2"
+  }, /*#__PURE__*/_react.default.createElement(_IPhone678SE2.default, null, "375"))));
+}
 
 var _default = App;
 exports.default = _default;
@@ -34523,7 +34499,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64624" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56929" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

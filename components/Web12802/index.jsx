@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Web12802.css";
 
-export const Web12802 = (props) => {
+function Web12802(props) {
   const { children } = props;
 
   return (

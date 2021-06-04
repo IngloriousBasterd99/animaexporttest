@@ -1,20 +1,20 @@
 import "./App.css";
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import { Web12801 } from './components/Web12801'
-import { Web12802 } from "./components/Web12802"
-import { IPadNexus91 } from './components/IPadNexus91'
-import { IPadNexus92 } from './components/IPadNexus92'
-import { IPhone678SE1 } from './components/IPhone678SE1'
-import { IPhone678SE2 }  from './components/IPhone678SE2'
+import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
+import Web12801 from "./components/Web12801";
+import Web12802 from "./components/Web12802";
+import IPadNexus91 from "./components/IPadNexus91";
+import IPadNexus92 from "./components/IPadNexus92";
+import IPhone678SE1 from "./components/IPhone678SE1";
+import IPhone678SE2 from "./components/IPhone678SE2";
 import Media from 'react-media';
 
-const App = () => {
+function App() {
     /* the goal is to route from page 1 to page 2, but the routing is borked */
     return (
-    <Router basename="/">
-    
-
+    <Router>
+      <Switch>
+        <Route path="/">
         <Media queries={{
               small: "(max-width: 599px)",
               medium: "(min-width: 600px) and (max-width: 1199px)",
@@ -28,14 +28,17 @@ const App = () => {
                 </>
               )}
             </Media>
-      <Switch>
+        </Route>
         /* the goal is to route from page 1 to page 2, but the routing is borked */
-        <Route exact path="/" component={Web12801} />
-        <Route exact path="/web-1208-2" component={Web12802} />
-        <Route exact path="/ipadnexus91" component={IPadNexus91} />
-        <Route exact path="/ipadnexus91" component={IPadNexus92} />
-        <Route exact path="/iphone678se1" component={IPhone678SE1} />
-        <Route exact path="/iphone678se2" component={IPhone678SE2} />
+        <Route path="/web-1280-2">
+          <Web12802>1280</Web12802>
+        </Route>
+        <Route path="/ipad-nexus-9-2">
+          <IPadNexus92>768</IPadNexus92>
+        </Route>
+        <Route path="/iphone-6-7-8-se-2">
+          <IPhone678SE2>375</IPhone678SE2>
+        </Route>
       </Switch>
     </Router>
   );
